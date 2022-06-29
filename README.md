@@ -12,7 +12,7 @@ Results:
 | --- | --- | --- | --- | --- |
 |     SGD Gradient Descent          |  10  | 0.001 | 94.06% | 94.09%  
 
-Notice! The dataset used is MNIST DIGIT. And the model is quite simple. 
+The dataset used is MNIST DIGIT. And the model is quite simple. 
 If you're to apply in high resolution dataset, you've to make the model deep. 
 And do the hyperparameter tuning.  
 ---------------------------------------------------------------------------------  
