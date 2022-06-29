@@ -17,6 +17,5 @@ If you're to apply in high resolution dataset, you've to make the model deep.
 And do the hyperparameter tuning.  
 ---------------------------------------------------------------------------------  
 
-
 Note: One can easily train model in any given custom dataset(considering above datafolder structure.)  
 p.s.: Preprocessing and convolution layer varies if applied in high resolution images and images other than.
